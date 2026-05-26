@@ -1,0 +1,10 @@
+Es importante porque las tecnologías 
+abiertas como Node.js dan a la gente 
+común el poder de crear soluciones reales
+para sus barrios o colectivos sin tener 
+que pedir permiso ni pagar licencias caras 
+a grandes empresas. Al usar herramientas
+libres, la comunidad es la única dueña de 
+sus datos y decide cómo funciona su 
+plataforma, adaptándola exactamente 
+a lo que necesitan en su día a día
